@@ -1,0 +1,43 @@
+.canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+
+}
+
+span {
+    display: block;
+}
+
+.colors {
+    padding: 10px;
+    margin-right: 10px;
+
+    border: solid black 2px;
+
+    height: 250px;
+    width: 250px;
+}
+
+
+#blue {
+    background-color: blue;
+}
+
+#grey {
+    background: grey;
+}
+
+#white {
+    background: white;
+}
+
+#yellow {
+    background: yellow;
+}
+
+#green {
+    background-color: green;
+}
